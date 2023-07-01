@@ -1,5 +1,0 @@
-This file is to test the difference between git clone and git pull practically.
-I am going to use git clone command in Ram repository and see if files are getting duplicated or updated.
-Lets see
-bye
-
